@@ -23,6 +23,6 @@ let firstname
 
     let workplace = Univelcity
 
-   let statement =`my name is ${fullname} and I was born in ${new Date(),getFullYear() -37} and i woek for ${workPlace} amd I am a ${isMale ? 'male' : female}`
+   let statement =`my name is ${fullname} and I was born in ${new Date(),getFullYear() -37} and i work for ${workPlace} amd I am a ${isMale ? 'male' : female}`
 
    console.log(statement)
